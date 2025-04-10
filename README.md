@@ -32,4 +32,10 @@ Applications
 📌 Precision Voltage Regulators
 📌 Data Converters (ADC/DAC)
 📌 Sensor Interfaces
+   ![image](https://github.com/user-attachments/assets/9caaa3d2-7322-4248-8868-81aff66e1255)
+   ![image](https://github.com/user-attachments/assets/c6f5d0f9-5caf-4055-ba29-ac07427753df)
+   ![image](https://github.com/user-attachments/assets/392a9a6d-9ca3-41e3-ae8f-4bd6b1aed94a)
+
+
+
 
